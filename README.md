@@ -4,8 +4,7 @@ Name : Beatrice Thomas <br>
 Register Number: 212223110005
 
 ## Aim:
-To create a Simple Storage Service (S3) in AWS and to launch an EC2 instance in AWS. 
-
+To create a Simple Storage Service (S3) in AWS and to launch an EC2 instance in AWS. <br> 
 ## Procedure
 a)	Steps to Create a first S3 Bucket: <br> <br> 
 Step 1: Sign in to the AWS Management Console <br>
