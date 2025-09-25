@@ -1,7 +1,7 @@
 ## Ex.2 Cloud storage creation (S3) and launching an (Ec2) instance in AWS
 
-Name : Beatrice Thomas <br>
-Register Number: 212223110005
+Name : Mahasri P <br>
+Register Number: 212223100029
 
 ## Aim:
 To create a Simple Storage Service (S3) in AWS and to launch an EC2 instance in AWS. <br> 
